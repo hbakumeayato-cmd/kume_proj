@@ -1,2 +1,2 @@
 --usersコード
-CREATE TABLE ;;
+CREATE TABLE ;;gh
